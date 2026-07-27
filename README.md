@@ -18,13 +18,13 @@ macOS 原生任务栏替代方案：兼顾 Windows 任务栏效率、经典开�
 
 ## 截图
 
-开始菜单（左快捷 + 右列应用级联）：
-
-![FCP Bar 开始菜单](assets/start-menu-cascade-2026-07-27.png)
-
 液态玻璃与毛玻璃对照：
 
 ![液态玻璃与毛玻璃](assets/liquid-vs-frosted-glass-2026-07-27.jpg)
+
+开始菜单（左快捷 + 右列应用级联）：
+
+![FCP Bar 开始菜单](assets/start-menu-cascade-2026-07-27.png)
 
 设置中心（任务栏）：
 
