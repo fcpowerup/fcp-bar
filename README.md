@@ -1,5 +1,7 @@
 # FCP Bar
 
+[English](README.en.md)
+
 macOS 原生任务栏替代方案：兼顾 Windows 任务栏效率、经典开始菜单，以及现代毛玻璃 / 液态玻璃界面；随时可一键恢复系统 Dock。
 
 作者：FCPOWERUP
