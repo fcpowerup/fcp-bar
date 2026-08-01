@@ -1,5 +1,7 @@
 # FCP Bar 公开版更新日志
 
+[English](CHANGELOG.en.md)
+
 面向用户。内部施工细节见开发仓，不在此重复。
 
 ## v0.1.3

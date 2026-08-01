@@ -72,4 +72,4 @@ On first launch, grant permissions when macOS prompts you:
 
 ## Updates
 
-[View release notes](CHANGELOG.md) (Chinese)
+[View release notes](CHANGELOG.en.md)
