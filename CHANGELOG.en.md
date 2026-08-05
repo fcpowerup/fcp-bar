@@ -4,6 +4,10 @@ English · [中文版](CHANGELOG.md)
 
 User-facing changes only. Internal development details stay in the private dev repository.
 
+## v0.1.4
+
+- Fixed Start menu display in light mode
+
 ## v0.1.3
 
 - New visual effects

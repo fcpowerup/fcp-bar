@@ -12,7 +12,7 @@ By **FCPOWERUP**
 
 Download the latest `.dmg` from this repository’s [Releases](https://github.com/fcpowerup/fcp-bar/releases/latest) (the attachment is always named `FCP-Bar.dmg`). Open the disk image, drag **FCP Bar** into **Applications**, then launch it from Launchpad or the Applications folder.
 
-The current public release is **v0.1.3**.
+The current public release is **v0.1.4**.
 
 If macOS says the developer cannot be verified: open **System Settings → Privacy & Security** and click **Open Anyway** next to the blocked-app prompt.
 

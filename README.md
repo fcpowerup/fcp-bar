@@ -12,7 +12,7 @@ macOS 原生任务栏替代方案：兼顾 Windows 任务栏效率、经典开�
 
 从本仓库的 [Releases](https://github.com/fcpowerup/fcp-bar/releases/latest) 下载最新 `.dmg`（附件固定名为 `FCP-Bar.dmg`），打开后把 **FCP Bar** 拖到 **Applications**，再从启动台或应用程序文件夹打开。
 
-当前公开版为 **v0.1.3**。
+当前公开版为 **v0.1.4**。
 
 若系统提示无法验证开发者：打开「系统设置 → 隐私与安全性」，在被拦提示旁点「仍要打开」。
 
