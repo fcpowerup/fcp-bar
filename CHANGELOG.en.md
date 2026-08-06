@@ -2,6 +2,10 @@
 
 English · [中文版](CHANGELOG.md)
 
+## v0.1.5
+
+- Restored the system Dock's default animation settings after quitting FCP Bar
+
 ## v0.1.4
 
 - Fixed Start menu display in light mode

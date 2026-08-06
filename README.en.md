@@ -12,7 +12,7 @@ By **FCPOWERUP**
 
 Download the latest `.dmg` from this repository’s [Releases](https://github.com/fcpowerup/fcp-bar/releases/latest) (the attachment is always named `FCP-Bar.dmg`). Open the disk image, drag **FCP Bar** into **Applications**, then launch it from Launchpad or the Applications folder.
 
-The current public release is **v0.1.4**.
+The current public release is **v0.1.5**.
 
 If macOS says the developer cannot be verified: open **System Settings → Privacy & Security** and click **Open Anyway** next to the blocked-app prompt.
 
@@ -67,6 +67,14 @@ On first launch, grant permissions when macOS prompts you:
 2. Settings let you adjust edge docking, thickness, glass style, grouping, alignment, multi-display behavior, Trash / Stacks / Show Desktop, and more.
 3. Press and hold an app on the taskbar for about **0.8 seconds** before dragging to reorder; a short click still activates the window.
 4. To stop using FCP Bar temporarily: choose **Restore Dock** from the menu bar or quit the app—the system Dock returns to normal.
+5. If the Dock slides out faster after using FCP Bar v0.1.4 or earlier, run the following commands in Terminal:
+
+   ```bash
+   defaults delete com.apple.dock autohide-time-modifier
+   killall Dock
+   ```
+
+   This restores the Dock's original slide-out animation speed.
 
 ---
 

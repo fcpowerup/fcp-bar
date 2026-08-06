@@ -12,7 +12,7 @@ macOS 原生任务栏替代方案：兼顾 Windows 任务栏效率、经典开�
 
 从本仓库的 [Releases](https://github.com/fcpowerup/fcp-bar/releases/latest) 下载最新 `.dmg`（附件固定名为 `FCP-Bar.dmg`），打开后把 **FCP Bar** 拖到 **Applications**，再从启动台或应用程序文件夹打开。
 
-当前公开版为 **v0.1.4**。
+当前公开版为 **v0.1.5**。
 
 若系统提示无法验证开发者：打开「系统设置 → 隐私与安全性」，在被拦提示旁点「仍要打开」。
 
@@ -67,6 +67,14 @@ FCP Bar 需要 **macOS 14** 或更高版本；Apple Silicon 与 Intel Mac 均可
 2. 设置中心可调贴边、厚度、玻璃样式、分组、对齐、多显示器、废纸篓 / 堆叠 / 显示桌面等。
 3. 按住任务栏上的应用约 **0.8 秒** 后可拖拽调整顺序；短点仍为唤起窗口。
 4. 若暂时不用 FCP Bar：用菜单栏里的「恢复 Dock」或退出应用，系统 Dock 会回到可用状态。
+5. 如果用户在使用 0.1.4 及之前的版本之后感觉 Dock 滑出动画变快，可以在终端运行：
+
+   ```bash
+   defaults delete com.apple.dock autohide-time-modifier
+   killall Dock
+   ```
+
+   来恢复 Dock 原本滑出的动画速度。
 
 ## 更新
 
